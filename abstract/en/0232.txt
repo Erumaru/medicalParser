@@ -1,0 +1,30 @@
+Effect of nicorandil on QT dispersion in patients with stable angina pectoris undergoing elective angioplasty: a triple-blind, 
+randomized, placebo-controlled study (abstract)
+
+Nicorandil causes relaxation of the smooth muscle cells of the heart vessels and has a vasodilating effect on the coronary 
+vessels. In addition, it has antiarrhythmic and cardioprotective effects by improving reperfusion, and leads to a reduction in 
+microvascular damage associated with percutaneous coronary intervention (PCI).
+Aim: to determine the effect of nicorandil on QT interval dispersion (QTd) in patients with stable angina pectoris during elective 
+angioplasty.
+Patients and Methods: the triple-blind randomized clinical trial was performed on the patients with stable angina pectoris, 
+which were candidates for elective coronary angiography between January and October 2016. Patients were randomly divided 
+into 2 groups: the main group, which received nicorandil (60 mg divided into three doses: 20 mg before 12 and 3 hours and 
+20 mg after PCI), and the control group, which received placebo. All patients underwent electrocardiography 12 hours before 
+and 12 hours after PCI. The values of the maximal corrected QT interval (QTc max) and QTd were compared, as well as the 
+degree of QTd change (QTd difference before and after angiography).
+Results: 90 patients — 55 men and 35 women (mean age 58.6±10.8 years) were divided into two groups of 45 people. Both 
+groups were comparable in the main clinical data.
+The QTd before angiography had no statistically significant difference between the patients of both groups (control 77.7±17 ms, 
+main 80.7±14.2 ms, p=0.371). The QTd after PCI in the nicorandil group was lower than in the control group (48.1±14.2 and 
+59.2±15.6 ms, respectively, p<0.05). The decrease rate of QTd had a statistically significant difference between the two groups 
+(control: 18.9±11.0, vs. nicorandil: 33.5±9.5 ms, p<0.05).
+
+14
+
+РМЖ, 2018 № 6(I)КардиологияОригинальные статьи
+Conclusions: the results of this study showed that oral administration of nicorandil around the PCI could further reduce QTd 
+following the PCI, compared to the control group.
+Key words: nicorandil, QT-dispersion, percutaneous coronary intervention, angioplasty, ischemic heart disease, atherosclerosis, 
+cardiovascular diseases.
+For  citation:  Effect  of  nicorandil  on  QT  dispersion  in  patients  with  stable  angina  pectoris  undergoing  elective  angioplasty:  
+a triple-blind, randomized, placebo-controlled study (abstract) // RMJ. 2018. № 6(I). P. 14–18.

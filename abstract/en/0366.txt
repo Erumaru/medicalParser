@@ -1,0 +1,13 @@
+Meta-analysis of the use of acetyl-L-carnitine with diabetic peripheral neuropathy
+
+The role of deficiency of acetyl-L-carnitine (ALC) and L-carnitine (LC) in the development of peripheral diabetic neuropathy is discussed in the literature, but
+there is little clinical evidence for this.
+The meta-analysis includes six articles, with the total number of 711 diabetic patients. Three RCTs (340 patients were treated with ALC vs. 203 placebo and
+115 patients received methylcobalamine) showed that ALC reduces pain perception (SMD = 0.45; 95% CI: 0.86 to 0.04; P = 0.03; I 2 = 85%). Compared to
+control, the addition of ALC increased both nerve conduction velocity and amplitude response for ulnar nerve (both sensory and motor component). Compared
+to baseline values, the addition of ALC/LC improved the nerve conduction velocity for all the sensory and motor nerves (except ulnar and peroneal) and the
+response amplitude for each of the nerves. Adverse events were usually limited to minimal side effects.
+It has been proved that ALC reduces the pain caused by diabetic polyneuropathy, compared with active and placebo-controls, and improves electromyographic
+parameters in these patients.
+Key words: Acetyl-L-carnitine, neuropathy, diabetes, meta-analysis.
+For citation: Meta-analysis of the use of acetyl-L-carnitine with diabetic peripheral neuropathy // RMJ. 2017. № 9. P. 637–641.

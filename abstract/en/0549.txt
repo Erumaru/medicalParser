@@ -1,0 +1,23 @@
+Modified Pylobact AM based therapy
+B.D. Starostin
+
+Saint Petersburg Outpatient Clinic No. 38
+
+The feasibility and need for H. pylori eradication are out of question and are recommended in numerous recommendations of recent years. In 
+most countries, there has been a significant decrease in the 7-day standard triple therapy effectiveness. Eradication under the most frequently 
+used anti-helicobacter regimens is also not achieved.
+Aim: to study the effectiveness of a 14-day modified Pylobact AM based therapy (MPAMBT) compared to a 7-day standard Pylobact AM 
+based therapy (SPAMBT) and known meta-analysis data of targeted therapy.
+Patients and Methods: the two-center controlled multifactorial study was conducted under specially developed protocol in accordance with 
+good clinical practice (GCP) standards. Group 1 (n=201) consisted of patients who received MPAMBT, and group 2 (n=15) — patients who 
+received SPAMBT.
+Results: eradication indicators were the following: in group 1 — 95% intention to treat (ITT) and 96% per protocolum (PP), and in group 2 — 
+53% (ITT) and 57% (PP). Eradication indicators during targeted therapy were Mcp=87.6% (ITT) and 92.2% (PP) according to meta-analysis. 
+H. pylori eradication rates after MPAMBT significantly exceeded those after SPAMBT and were not inferior to targeted therapy. Adverse 
+events were 2 times less frequently detected during MPAMBT than during SPAMBT.
+Conclusion: MPAMBT can be recommended for front-line therapy. MPAMBT is a highly effective and safe option for the treatment of diseases 
+associated with H. pylori. Also, MPAMBT eliminates the need for additional researches aimed at determining the sensitivity of H. pylori and 
+PPI metabolism, reducing costs and speeding up the prescription of etiopathogenetic therapy. Besides, MPAMBT is not inferior to targeted 
+therapies during which antibiotic sensitivity and/or genotypic polymorphism СУР2С19 is taking into account.
+Keywords: modified Pylobact AM based therapy, standard Pylobact AM-based therapy, targeted therapy, Helicobacter pylori, eradication.
+For citation: Starostin B.D. Modified Pylobact AM based therapy. RMJ. 2019;5:8–12.

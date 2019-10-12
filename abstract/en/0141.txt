@@ -1,0 +1,18 @@
+Chest 3D modeling in the diagnosis of disseminated lung lesions
+Filatova E.A., Skornyakov C.N., Medvynsky I.D., Savelyev A.V., Tcvirenko A.S., Chernyaev I.А., Berdnikov R.B., Valueva V.N.
+
+Ural Scientific Research Institute of Phthisiopneumology, Yekaterinburg
+
+The article presents the structure of divergence of clinical diagnoses in patients with disseminate lung lesions (DLL). Authors described an advanced tech-
+nology of transbronchial lung biopsy (TBB) based on chest 3D modeling that isolates pathological elements, calculates the volume of affected lung tissue in
+patients with DLL and develops navigation maps that increases the effectiveness of  sampling biopsy material during TBB.
+Objective: To estimate the role of improved TBB in DLL diagnosis.
+Material and Methods: In group 1 (n = 459) examination results and the structure of divergence of clinical diagnoses in patients with DLL were retrospec-
+tively analyzed. Informational content of biopsy specimens of lung tissue obtained during TBB with 3D-navigation (group 2) and traditional TBB (group 2)
+were compared in 50 patients with DLL. Results: The analysis of  patients with DPL (n = 459) revealed a significant (p <0,05) divergence of clinical diag-
+noses, reaching 48%. The chance of receiving informative material in group 2 – 1.125, in group 3 -  0.143 (p<0.05, standard error of OR 0.83, OR 7.875 (95%
+CI:1.547; 40.092), RR 1,688 (95% CI:1.171; 2.431) Standard error of relative risk (S) 0.186. 
+Conclusion: Usage of individual virtual 3D navigation map, based on chest CT, allows to obtain informative biopsy specimens during TBB 1.69 times more likely
+than traditional TBB, which leads to reduction of length of stay, diagnostic load for a patient and decreases expenses of the hospital for DLL management.
+Key words: disseminated lung lesions, transbronchial lung biopsy, 3D modeling of the chest, chest CT.
+For citation: Filatova E.A., Skornyakov C.N., Medvynsky I.D. et al. Chest 3D modeling in the diagnosis of disseminated lung lesions // RMJ. 2016. № 16.

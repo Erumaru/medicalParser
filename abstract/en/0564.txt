@@ -1,0 +1,35 @@
+Experience in applying stereotaxic reirradiation in the mode of hypofractionation in cases of head and neck cancer recurrence
+Mikhailov A.V.1, Vorobiev N.A.1-3, Sokurenko V.P.4, Smirnova E.V.1, Martynova N.I.1, Gutsalo Yu.V.1
+
+11 Medical and Diagnostic Center of International Institute of Biological Systems named after Berezin Sergei, St. Petersburg
+2 North-Western State Medical University named after I.I.Mechnikov, St. Petersburg
+3 St. Petersburg State University
+4 Russian Research Center of Radiology and Surgical Technologies named after Acad. A.M. Granova, St. Petersburg
+
+Recurrences of head and neck cancer develop in more than half of patients after aggressive primary treatment. Surgical treatment in these cases provides
+the best results, but it is not always feasible. In this regard, reirradiation remains an actual problem of modern oncology.
+Aim to study the tolerability and immediate efficacy according to the criterion of local control of stereotaxic reirradiation in the mode of hypofractionation
+in patients with local and regional relapses of head and neck cancer.
+Patients and methods: 8 patients with local and regional head and neck cancer recurrences were included in the study, who received a course of radiotherapy
+as part of the initial treatment. Patients underwent a repeated course of radiation therapy in the mode of hypofractionation (35 Gy for 7 fractions). Volumes
+of irradiation were formed using PET-CT with 18F-FDG, MRI and CT. The dose was administered using the techniques of volumetric modulated arc therapy
+(VMAT) using IGRT (orthogonal X-ray and CT in a conical beam) to monitor the positioning of the patient.
+Results: early radiation reactions were expressed in the form of radial mucositis I-II degree, radiation dermatitis I-II degree. One patient died due to devel-
+opment of profuse bleeding after 3 weeks after the end of radiation treatment. An objective response was achieved in 6 of 8 patients. With a median follow-
+up of 11 months, there was no development of late radiation complications leading to a decrease in the quality of life.
+
+1190
+
+РМЖ, 2017 № 16
+
+
+Онкология
+
+Клинический опыт
+
+Conclusion: stereotaxic reirradiation in the mode of hypofractionation in patients with locoregional recurrence of head and neck cancer is a well tolerated
+type of treatment that provides high local control results while maintaining a satisfactory quality of life. Nevertheless, the risk of developing fatal post-radi-
+ation complications determines the need for careful selection of candidates for this type of treatment.
+Key words: reirradiation, head and neck cancer, relapse, hypofraction.
+For citation: Mikhailov A.V., Vorobiev N.A., Sokurenko V.P. et al. Experience in applying stereotaxic reirradiation in the mode of hypofractionation in cases of
+head and neck cancer recurrence // RMJ. 2017. № 16. P. 1190–1194.

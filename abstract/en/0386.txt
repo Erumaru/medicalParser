@@ -1,0 +1,16 @@
+Current issues in molecular diagnostics of bladder cancer
+A.G. Dzidzaria, A.Yu. Pavlov, R.A. Gafanov, S.V. Fastovets, I.B. Kravtsov
+
+Russian Research Center of Radiology and Nuclear Medicine, Moscow
+
+Bladder cancer is one of the most common tumors in the structure of cancer incidence. For a long time, due to poor understanding of 
+the correlations between its molecular and clinical features, there has been little success in treatment of this pathology. The data ob-
+tained showed that bladder cancer includes a group of molecular-heterogeneous subtypes, which, in the course of various treatment 
+options,  possessed  diverse  therapeutic  responses.  Recently,  due  to  the  close  connection  between  the  molecular  subtypes  of  bladder 
+cancer and clinical and pathological features, specific therapeutic strategies have been proposed. This review summarizes the current 
+understanding of the molecular pathology of bladder cancer, including its molecular biomarkers and molecular subtypes, which have 
+been successfully identified using high technology. Progress in understanding the personalization of treatment of specific molecular 
+subtypes is also discussed.
+Keywords: bladder cancer, gene expression, mutation, APOBEC, molecular pathological epidemiology, precision medicine, the cancer genome 
+atlas (TCGA), uroplakin, urothelial carcinoma.
+For  citation:  Dzidzaria  A.G.,  Pavlov  A.Yu.,  Gafanov  R.A.  et  al.  Current  issues  in  molecular  diagnostics  of  bladder  cancer.  RMJ.  

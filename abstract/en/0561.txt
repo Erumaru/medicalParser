@@ -1,0 +1,16 @@
+Possibilities of proton therapy. Clinical aspects
+Vorobiev N.A.1-3, Mikhailov A.V.1, Smirnova E.V.1,3, Gutsalo Yu.V.1, Martynova N.I.1
+
+1 Medical and Diagnostic Center of International Institute of Biological Systems named after Berezin Sergei, St. Petersburg
+2 Saint Petersburg State University
+3 North Western State Medical University named after I.I. Mechnikov, St. Petersburg
+
+The article presents the possibilities of proton therapy as a new method of treating malignant tumors, which has certain advantages over standard photon
+radiation therapy. This is due to the possibility of creating the maximum dose of radiation in the target area without exceeding the tolerated dosages for nor-
+mal tissues, even if the target is close to the critical structures of the body. A higher dose leads, respectively, to a greater probability of death of cancer cells.
+Currently, there is an active accumulation of experience in the clinical use of proton therapy. The presented studies show the potential advantage of proton
+therapy in the treatment of CNS tumors, chord and chondrosarcoma of the skull and skeleton base, head and neck tumors, malignant tumors in children. The
+role of protons in cancer of the rectum, stomach, prostate, pancreas is actively studied. The results obtained should help to identify groups of patients for
+whom proton therapy will be crucial in improving disease control, overall survival and maintaining quality of life.
+Key words: proton therapy, chordoma, chondrosarcoma, malignant tumors in children, radioinduced tumors.
+For citation: Vorobiev N.A., Mikhailov A.V., Smirnova E.V. et al. Possibilities of proton therapy. Clinical aspects // RMJ. 2017. № 16. P. 1175–1180.

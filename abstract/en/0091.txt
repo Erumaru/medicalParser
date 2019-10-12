@@ -1,0 +1,31 @@
+Human herpesviruses infections: clinical features and opportunities of therapy
+R.V. Shubelko1, I.N. Zuykova2, A.E. Shulzhenko2
+
+1 JSC «K+31», Moscow
+2 “National Research Center — Institute of Immunology” Federal Medical-Biological Agency of Russia, Moscow
+
+Herpesviruses are widely spread among the human population. After the primary infection, the herpesviruses become latent 
+and persistent in the human body for life. Adverse conditions and a low local or systemic immunity may reactivate the infection, 
+which causes the inflammation, usually at the local level. The variety of clinical forms of herpesviruses infections constantly 
+supports scientific interest both in the field of studying their pathophysiology and in the search for effective antiviral therapy. 
+This is especially important for β- and γ-herpesviruses, since the α-herpesvirus group has been studied rather well.
+Aim:  to  determine  the  efficacy  of  valacyclovir  for  replication  of  the  Epstein-Barr  virus  (EBV),  human  herpesvirus  type  6 
+(HHV-6), cytomegalovirus (CMV) in the oropharynx in frequently ill adults with chronic inflammatory diseases of the upper 
+respiratory tract.
+Patients and Methods: 80 patients with frequent recurrences of chronic inflammatory diseases of the upper respiratory tract were 
+examined outpatiently. All patients underwent microbiological examination of swabs from the oropharynx and the viral load in 
+mixed saliva and whole blood not in exacerbation period was assessed. Patients received valacyclovir therapy according to the 
+scheme 500 mg x 3 times a day for 14 days. Control of viral load in the biomaterial was carried out after the end of treatment.
+Results and Discussion: out of the period of exacerbation the oropharynx microflora in frequently ill adults is represented 
+mainly by a normal or conditionally pathogenic microflora. EBV DNA, HHV-6, but not CMV DNA, were detected in the mixed 
+saliva. The DNA of the herpesvirus was not detected in the blood samples of these patients. The use of valacyclovir in a dose  
+of 500 mg 3 times a day significantly reduces the replication of EBV in the oropharynx in frequently ill adults.
+
+39
+
+РМЖ, 2018 №8(I)Аллергология/ИммунологияОбмен опытом
+Conclusions: it is advisable to conduct further studies to determine the dosage regimen and evaluate the clinical efficacy of 
+acyclic nucleosides in the treatment of EBV infection.
+Key words: herpes viruses, Epstein-Barr virus, human herpes virus, cytomegalovirus, frequently ill adults, viral load, valacyclovir.
+For citation: Shubelko R.V., Zuykova I.N., Shulzhenko A.E. Human herpesviruses infections: clinical features and opportunities 
+of therapy // RMJ. 2018. № 8(I). P. 39–45.

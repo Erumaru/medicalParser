@@ -1,0 +1,20 @@
+Algorithm of surgical decision making in patients with chronic paralytic and combined laryngeal stenosis
+Starostina S.V.
+
+I.M. Sechenov First Moscow State Medical University
+
+In traumatic laryngeal stenosis, combined reconstructive surgery with laryngeal and tracheal prosthetics is the most promising procedure which recovers
+anatomical integrity and functions of larynx.
+Aim: to develop an algorithm of surgical decision which increases the efficacy of the surgery and includes anthropometry (i.e., the measurement of neck
+parameters and the assessment of body type), building of regression models of relevant laryngeal anthropometric parameters, the choice of optimal
+method of laryngoplasty depending on clinical data (the size of the glottis and the location of vocal folds), calculation of autograft size and the length of T-
+shaped tube based on the mathematical analysis of anthropometric and organometric characteristics, laryngotracheoplasty and prosthetics of surgically
+created laryngotracheal space to prevent recurrent laryngeal stenosis and scarring in the late postoperative period.
+Patients and methods: 71 patients aged 23-68 years with chronic paralytic (31%) and combined (69%) laryngeal stenosis were enrolled in the study. The
+examination included anthropometry, endoscopy, spirometry, X-ray tomography, and computed tomography. Extralaryngeal laterofixation of the vocal
+cord (n = 22), extralaryngeal laterofixation of the vocal cord and stenting with T-shaped silicone tube (n = 43), or dissection of scars after prior laryngo-
+plasty and readdressing of cricoid cartilage with laryngeal stenting (n = 6) was performed.
+Conclusions: planned surgical treatment using the algorithm which considers neck anthropometry and body type provided successful rehabilitation of 68
+patients (95,8%) with chronic paralytic and combined laryngeal stenosis.
+Key words: laryngeal paralysis, chronic stenosis, laterofixation of the vocal cord, arytenoidotomy, T-shaped tube, anthropometry.
+For citation: Starostina S.V. Algorithm of surgical decision making in patients with chronic paralytic and combined laryngeal stenosis // RMJ. 2016. № 21.

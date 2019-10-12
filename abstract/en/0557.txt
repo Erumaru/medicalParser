@@ -1,0 +1,24 @@
+Possibilities and limitations of stereotactic irradiation in the treatment of large arteriovenous malformations of the brain
+Maryashev S.A., GolanovA.V.,Yakovlev S.B., Antipina N.A., Filchenkova N.V.
+
+National Medical Research Center of Neurosurgery named after Academic N.N. Burdenko, Moscow
+
+Arteriovenous malformations (AVM) are congenital anomalies of cerebral vessels, in which insufficiently formed blood vessels shunt the blood directly from
+the arterial blood circulation system into the venous system, bypassing the capillary network.
+Currently, there are several ways to treat AVM, depending on the size, structure, location, clinical manifestations, as well as the condition and desire of the
+patient. In the world, extensive experience in the surgical and endovascular treatment of AVM has been accumulated. Despite the progress of microsurgical
+techniques and the improvement of methods for endovascular treatment, there is a large number of patients, to whom surgical methods are not applicable,
+or whose treatment is incomplete (AVM continues to function). In recent decades, stereotaxic irradiation (radiosurgery and stereotaxic radiation therapy)
+takes an increasingly important place in the treatment of patients with AVM.
+Aim: to improve the results of treatment of large AVM by creating an algorithm and standardizing the hypofractionation.
+Patients and methods: in National Medical Research Center of Neurosurgery named after Academic N.N. Burdenko for the years 2005-2013 108 patients
+with large AVM were treated by stereotactic irradiation. In 89 cases three methods of hypofractionation were used on linear electron accelerators "Novalis"
+and «Cyber knife».
+Results: obliteration of AVM after stereotaxic radiation therapy in the mode of hypofractionation was found on average in 42% of patients. The optimal frac-
+tionation regimen is the total focal dose up to 24 Gy, fed for 2 fractions, while AVM obliteration was achieved in 46% of patients. Statistically significant fac-
+tors predicting the onset of AVM obliteration during hypofractionation in a single-factor analysis are the AVM volume ≤14 cm3 and the absence of previous
+embolization.
+Conclusion: stereotactic irradiation in the mode of hypofractionation is an acceptable treatment option for large AVMs (with a volume of 10 cm3 or more).
+Key words: arteriovenous malformation, radiosurgery, stereotaxic irradiation, hypofractionation, obliteration, AVM.
+For citation: Maryashev S.A., Golanov A.V., Yakovlev S.B. et al. Possibilities and limitations of stereotactic irradiation in the treatment of large arteriovenous
+malformations of the brain // RMJ. 2017. № 16. P. 1155–1163.

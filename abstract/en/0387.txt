@@ -1,0 +1,18 @@
+Photodynamic therapy with the domestic fluorescent video system of non-muscle invasive bladder cancer
+A.B. Babaev1, O.B. Loran1,2
+
+1 Russian Medical Academy of Continuous Professional Education, Moscow
+2 Botkin City Clinical Hospital, Moscow
+
+Non-muscle invasive bladder cancer (NMIBC) is characterized by a continuously progressing current and frequent recurrence. The standard 
+of NMIBC treatment is transurethral resection (TUR), however, the frequency of recurrences after TUR is extremely high, which, in turn, 
+leads to the progression of the tumor process, excluding organ-preserving treatment methods. The problem of detecting this pathology at 
+the initial stage and control of the radicality of the treatment remains extremely important today. At present, physical factors of influence 
+and combinations of physicochemical methods are widely used in diagnostics and treatment of NMIBC patients, allowing selective influence 
+on tumor tissue, one of them is intraoperative performance of photodynamic diagnostics and photodynamic therapy, called “photodynamic 
+teranostics”. However, at the moment there is no assessment of the effectiveness of the domestic fluorescent video system with multispectral 
+laser exposure. This scientific review presents information on the peculiarities of using photodynamic diagnostics and therapy of NMIBC.
+Keywords: non-muscle invasive bladder cancer, photodynamic diagnostics, photodynamic therapy, photodynamic teranostics, fluorescent 
+video system, transurethral resection.
+For  citation:  Babaev  A.B.,  Loran  O.B.  Photodynamic  therapy  with  the  domestic  fluorescent  video  system  of  non-muscle  invasive  bladder 
+cancer. RMJ. 2019;2:61–66.

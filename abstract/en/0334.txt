@@ -1,0 +1,34 @@
+Analysis of cardiorespiratory coordination in patients with stuttering
+A.A. Korneenkov, V.M. Bakhilin, M.A. Abdurakhmanov, S.V. Serdyukov
+
+Saint­Petersburg Research Institute of Ear, Throat, Nose and Speech
+
+Respiratory distress and heart rhythm disorder accompany many diseases. This article proposes a method to visually assess 
+their interaction during stuttering. Synchronous records of the electrocardiogram and respiration were used for the calcula­
+tions. The moments of R­peaks were determined in a cardiogram record, and the moments of the inspiratory cycle beginning — 
+in a respiration record.
+Aim: to analyse a cardiorespiratory communication in patients with stuttering based on the proposed indicators of cardiores­
+piratory coordination.
+Patients and Methods: electrocardiogram (ECG, II standard lead) and data on uncalibrated airflow from the nose, obtained 
+using a thermistor sensor, were recorded simultaneously in 12 healthy subjects and in 23 stuttering patients using a portable 
+device VNS­Spectr. The data for each test were recorded during rest in a sitting position for 5 minutes. The sampling frequency 
+of ECG signals and nasal airflow was 200 Hz.
+Analysis of cardiorespiratory coordination was carried out in the following areas:
+–  calculation of indicators related by the ratio of m:n (where m: number of heartbeats, n: number of inspiratory cycles);
+–  calculation of the time distances between the event markers of two time series;
+–  building of synchrograms for descriptive model and visualization of “phase repeats”, on which the time scale values of rela­
+tive distance ji   of each R­peak registration were noted. If in the sequence the relative distance ji  of each m R­peak does not 
+59
+
+РМЖ, 2018 № 10 (II)ОториноларингологияАктуальные проблемы
+exceed the specified error ε=0.025, then horizontal lines are formed from individual point values of ji . Otherwise, parallel 
+horizontal lines will not appear.
+
+Results and Discussion: the study revealed a loss of cardiorespiratory coordination in patients with stuttering.
+Conclusion: the study showed that the quantitative characterization of the cardiorespiratory interaction in patients with stut­
+tering may well be used to identify differences in the degree of its manifestation in different groups of patients with respiratory 
+rhythm disturbances.
+Key words: cardiorespiratory communication, cardiorespiratory coordination, stuttering, synchrogram, synchronization the­
+ory, inspiratory cycle.
+For citation: Korneenkov A.A., Bakhilin V.M., Abdurakhmanov M.A., Serdyukov S.V. Analysis of cardiorespiratory coordination 
+in patients with stuttering // RMJ. 2018. № 10(II). P. 59–63.

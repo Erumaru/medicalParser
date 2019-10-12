@@ -1,0 +1,33 @@
+The effect of metformin on renal functions in type 2 diabetics receiving insulin therapy
+BayrashevaV.K.1,2, Babenko A.Yu.1,2, Pchelin I.Yu.3, Bayramov A.A.1, Chefu S.G.2, Shatalov I.S.4, Khudyakova N.V.3, Aref'eva A.N.2, Grineva E.N.1,2
+
+1 V.A. Almazov North-West Federal Medical Research Centre, St. Petersburg
+2 I.P. Pavlov First St. State Medical University, St. Petersburg
+3 St. Petersburg State University, St. Petersburg
+4 St. Petersburg National Research University of Information Technologies, Mechanics and Optics
+
+Background: a number of large studies demonstrate reduced risk of macrovascular complications in patients with type 2 diabetes who receive metformin.
+However, the effect of metformin on microvascular complications (in particular, diabetic nephropathy) is not so clear and requires further studies.
+Aim: to assess renal function parameters in type 2 diabetes patients receiving insulin therapy who were additionally prescribed with metformin for 6 months.
+Patients and methods: open-label prospective study included 46 type 2 diabetics who received insulin therapy with estimated glomerular filtration rate us-
+ing creatinine (eGFRcr) of > 60/ml/min/1.73 m2 and albuminuria up to 200 mg/l. The patients were randomized to continue monotherapy with insulin or to
+receive additional 1500 mg of metformin. Changes in albuminuria as well as serum eGFRcr and estimated glomerular filtration rate using cystatin C (eGFR-
+cys) were evaluated after 6 months.
+
+1334
+
+РМЖ, 2016 № 20
+
+
+Эндокринология
+
+Results: both groups were similar for sex, age, renal function parameters, and diabetes compensation. In insulin group (n=21), no significant changes in the
+parameters were detected. In metformin group (n=22), significant improvements of fasting (by 7.0%) and postprandial blood glucose levels (by 9.6%), gly-
+cated hemoglobin (by 3.3%), triglycerides (by 13.4%), and total daily insulin (by 6.1%) were detected after 6 months (p < 0.05). However, these changes did
+not significantly affect albumin/creatinine ratio and eGFRcys. Despite significant decrease in eGFRcr by Cockroft-Gault formula (by 4.3%, p = 0.024), these
+changes in metformin group were due to the significant decrease in body mass index (r = 0.61, p = 0.0068) which is a component of Cockroft-Gault formu-
+la. These changes were not observed when using more precise CKD-EPI formula for eGFRcys.
+Conclusions: 1500 mg of metformin prescribed for 6 months in type 2 diabetics without severe renal failure who receive insulin therapy significantly improves
+carbohydrate metabolism and metabolic parameters but does not significantly affect routine renal markers.
+Key words: type 2 diabetes, metformin, insulin, diabetic nephropathy, renal function.
+For citation: Bayrasheva V.K., Babenko A.Yu., Pchelin I.Yu. et al. The effect of metformin on renal functions in type 2 diabetics receiving insulin therapy // RMJ.

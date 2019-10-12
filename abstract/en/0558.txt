@@ -1,0 +1,23 @@
+Radiosurgical treatment of metastases of renal cell carcinoma on the apparatus "Gamma-knife"
+Nikitin D.I., Zubatkina I.S., Ivanov P.I.
+
+Clinic of Radiosurgery, Stereotactic Radiotherapy and General Oncology of the Medical Institute named after Sergei Berezin, St. Petersburg
+
+The aim: to study the results of radiosurgical treatment on the apparatus «Gamma-knife» of patients with metastases of renal cell carcinoma in the brain, to
+analyze the factors affecting the effectiveness of treatment and the life expectancy of patients.
+Patients and methods: from 2009 to 2016, patients with metastases of renal cell carcinoma in the brain who underwent radiosurgical treatment with the
+Gamma Knife apparatus (Leksell Gamma Knife, Elekta AB, Sweden) with controlled tumor dynamics by MRI imaging and survival time. The study included
+101 patients, follow-up data and the results of the control magnetic resonance imaging of these patients were fully available for study. The patients' life ex-
+pectancy, local control and the appearance of new metastases in the brain after the radiosurgical treatment were studied using the technique of analyzing
+censored data with the construction of the Kaplan-Mayer probability function. A comparison of life expectancy in groups of patients was carried out using a
+nonparametric log rank test.
+Results: the evaluation of the results of radiosurgery treatment was carried out on the basis of control MR studies using the Gamma-Plan Follow-up program.
+Local control was achieved in 95% of cases. The emergence of new metastases in the brain was noted in 45% of patients, the median time to detect new
+metastatic foci in the brain was 10.4 months. Analysis of life expectancy after radiosurgical treatment revealed a median of 13.8 months: in RPA I, 24.9; RPA
+II - 16.5; RPA III - 4.7 months.
+Conclusion: the obtained data showed a high level of local control of metastasis of renal cell carcinoma in the brain after radiosurgical treatment, which, to-
+gether with the development of methods of systemic therapy, opens the prospect of increasing the life expectancy of patients. Given the radioresistance of
+metastasis of renal cell carcinoma to radiation therapy and a high rate of relapse after total brain radiation, radiosurgical treatment can be considered a
+method of choice for the treatment of this group of patients.
+Key words: renal cell cancer, metastases to the brain, «Gamma Knife», radiosurgery, local control, life expectancy, RPA-classes
+For citation: Nikitin D.I., Zubatkina I.S., Ivanov P.I. Radiosurgical treatment of metastases of renal cell carcinoma on the apparatus «Gamma-knife» // RMJ.

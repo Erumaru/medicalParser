@@ -104,7 +104,7 @@ def findArticle(line, path):
 				for body_line in file_data_lines[line_index + 1:]:
 					if body_line == 'Литература':
 						return body
-					if 'Список литературы' in file_line:
+					if 'Список литературы' in body_line:
 						return body
 					else:
 						body.append(body_line)			
@@ -151,8 +151,8 @@ path = sys.argv[1]
 
 
 #convert_pdfs_to_txt(path)
-#parse_abstructs(path)
-#parse_title(path)
+parse_abstructs(path)
+parse_title(path)
 parse_body(path)
 
 

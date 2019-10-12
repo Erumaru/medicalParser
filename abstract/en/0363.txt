@@ -1,0 +1,17 @@
+Treatment with Piribedil and Memantine Reduces Noise-Induced Loss of Inner Hair Cell Synaptic Ribbons
+
+Introduction. Noise overstimulation can induce loss of synaptic ribbons associated with loss of Inner Hair Cell – auditory nerve synaptic connections.
+The aim of the study was to examine if systemic administration of Piribedil (Pronoran®), a dopamine agonist that reduces the sound evoked auditory nerve
+compound action potential and/or memantine, an NMDA receptor open channel blocker, would reduce noise-induced loss of inner hair cell ribbons. 
+Material and methods. Rats received systemic memantine and/or piribedil (Pronoran®) for 3 days before and 3 days after a 3 hour 4 kHz octave band noise
+at 117 dB (SPL). Three regions of interest were selected along the cochlear spiral at 3.5, 5.5 and 6.5 mm from the apex for quantitative assessment, close to
+the 8 and 20 kHz frequency regions respectively of our ABR assessments. ABR measures with I/O functions were collected prior to inclusion in the study and
+again at 21 days post-noise exposure, prior to animal termination.
+Results. At 21 days following the noise there was a 26% and 38% loss of synaptic ribbons in regions 5.5 and 6.5 mm from apex, respectively, elevations in 4–,
+8- and 20 kHz tonal ABR thresholds and reduced dynamic output at higher intensities of stimulation. Combined treatment with Piribedil and Memantine pro-
+duced a significant reduction in the noise-induced loss of ribbons in both regions and changes in ABR sensitivity and dynamic responsiveness. Piribedil alone
+gave significant reduction in only the 5.5 mm region and memantine alone did not reach significance in either region.
+Conclusions. Results identify treatments that could prevent the hearing loss and hearing disorders that result from noise-induced loss of Inner Hair Cell –
+Auditory Nerve synaptic connections.
+Key words: noise exposure, inner hair cells synaptic ribbons, short-latent auditory evoked potentials, piribedil, Pronoran®, memantine.
+For citation: Treatment with Piribedil and Memantine Reduces Noise-Induced Loss of Inner Hair Cell Synaptic Ribbons // RMJ. 2017. № 9. P. 618–624.

@@ -1,0 +1,36 @@
+The use of stereotactic radiation therapy in patients with primary and metastatic lung tumors
+MartynovaN.I.1, Vorob'ev N.A.1 - 3, Mikhailov A.V.1, Smirnova E.V.1,3, Gutsalo Yu.V.1
+
+1 Medical and Diagnostic Center of International Institute of Biological Systems named after Berezin Sergei, St. Petersburg
+2 Saint Petersburg State University
+3 North Western State Medical University named after I.I. Mechnikov, St. Petersburg
+
+This study illustrates the evaluation of the treatment of  patients with lung neoplasms of various nature and sizes in the IIBS clinic performed on two types
+of linear accelerators.
+Patients and methods: from December 2011 to February 2017, 71 patients with total 103 primary and metastatic formations of the lungs  were treated. Of
+all the tumors, 37 were central and 66 were peripheral; patients receiving treatment for primary lung tumors were refused a surgical treatment. Treatment
+was carried out on two types of linear accelerators: CyberKnife (CK) (with the use of the Synchrony Breathing System for 38 (59.4%) out of 64 tumors) and
+TrueBeam STx (TB) (with the use of the Gating Breathing System on the area of   39 tumors).
+Results: the observation group consisted of 50 patients with 71 lung formations. The average volume of tumors was 44.7 cm3 (0.2-496.5 cm3). Median obser-
+vation was 7 months (1-57 months). Local control was achieved in 100% of cases, median duration of control was 6 months (1-57 months). Local control was
+maintained even in most cases of systemic progression of the underlying disease. For 19 (26,8%) formations, according to the results of treatment, a complete
+response was achieved, the median of which was 5 months (1-47 months). Continued growth was observed in 16 (22.5%) cases, 15 of which were primary
+tumors. The frequency of early toxicity (cough, dyspnea) in CK treatment was lower (8% vs. 19% for TB), most patients did not exceed grade II severity, com-
+plications of grade III toxicity were observed in 5 patients. The frequency of late radiation complications did not differ in patients receiving treatment on both
+linear accelerators and did not exceed the grade II in all patients. Early and late radiation complications of grade IV were not observed in any patient. 1-, 2-
+and 3-year overall survival was 83.6, 77.3 and 65.8%, respectively.
+Conclusion: stereotactic radiotherapy allows to achieve and maintain local control in the majority of patients at a sufficiently low incidence of radiation
+complications. When irradiating primary lung tumors, higher doses may be more effective in achieving and maintaining local control.
+
+РМЖ, 2017 № 16
+
+1169
+
+
+Оригинальные статьи
+
+Онкология
+
+Key words: stereotactic radiation therapy, non-small cell lung cancer, metastases to the lungs.
+For citation: Martynova N.I., Vorob'ev N.A., A.V. Mikhailov et al. The use of stereotactic radiation therapy in patients with primary and metastatic lung
+tumors // RMJ. 2017. № 16. P. 1169–1172.

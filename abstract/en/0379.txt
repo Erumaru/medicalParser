@@ -1,0 +1,32 @@
+Comprehensive assessment of the effectiveness of gene therapy in patients with chronic ischemia of the lower limbs
+A.V. Shabunin1, M.R. Kuznetsov2,3, D.V. Matveev1, E.E. Fedorov3, A.D. Matveev1
+
+1Russian Medical Academy of Continuous Professional Education, Moscow
+2Pirogov Russian National Research Medical University, Moscow
+3Bauman City Clinical Hospital No. 29, Moscow
+
+Aim: to evaluate the efficacy of conservative treatment of patients with chronic lower limb ischemia (CLLI) using genetically engineered 
+therapy (Neovasculgen).
+Patients and Methods: 49 patients with different degrees of arterial damage to the lower limbs participated in the study. Patients were divided 
+into 2 groups: patients of the 1st group received standard conservative therapy, drug treatment of the 2nd group patients was supplemented 
+with Neovasculgen, which was injected intramuscularly into the calf muscles of the affected limb by 1.2 mg at intervals of 14 days twice. 
+The effectiveness of the treatment was assessed both on the basis of subjective (pain-free walking distance – PFWD) and objective (VEGF-A 
+(vascular endothelial growth factor A) in peripheral blood, BNIP3 (BCL2/adenovirus E1B 19 kDa protein-interacting protein 3, proapoptosis 
+protein of the B-cell lymphoma 2 family (BCL2) in the biopsy of the calf muscle affected limb) criteria.
+Results: after 6 months, no significant dynamics, both positive and negative, were observed in 1st group patients for any of the indicators. 
+Patients of the 2nd group had a significant increase in PFWD, an increase in VEGF-A in peripheral blood flowing directly from ischemic 
+muscles,  and  a  decrease  in  BNIP3  levels,  especially  in  patients  with  intermittent  claudication,  corresponding  to  the  II  stage  of  ischemia 
+according to the Fontaine-Pokrovsky classification.
+Conclusion: the results of the study have shown that gene therapy should be recommended as part of a conservative treatment regimen 
+for CLLI, primarily in patients with IIA and IIB ischemia. In addition, it is worth emphasizing the importance of using objective evaluation 
+
+21
+
+РМЖ, 2019 № 2Ангиология
+criteria (determination of the endothelial growth factor VEGF-A in peripheral blood, determination of the proapoptosis protein BNIP3 
+of the BCL2 family): it is the introduction of histochemical and biochemical criteria that can make the next step towards the creation of 
+a «golden standard» of conservative treatment of CLLI.
+Keywords:  chronic  ischemia  of  the  lower  limbs,  morphological  criteria,  biochemical  criteria,  apoptosis,  VEGF-A,  BNIP3,  gene  therapy, 
+therapeutic angiogenesis.
+For citation: Shabunin A.V., Kuznetsov M.R., Matveev D.V. et al. Comprehensive assessment of the effectiveness of gene therapy in patients 
+with chronic ischemia of the lower limbs. RMJ. 2019;2:21–25.

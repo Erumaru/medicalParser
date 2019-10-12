@@ -1,0 +1,18 @@
+Optimization of medicinal prescriptions in patients of elderly and senile age: is it possible to defeat polypharmacy?
+Tkacheva O.N.1, Pereverzev A.P.1,2, Runikhina N.K.1, Kotovskaya Yu.V.1,2, Shevchenko D.A.2, Apresyan V.S.2, Filippova A.V.2, Danilova M.G.2, 
+Razuvanova E.M.2, Makeev D.G.2, Askerova A.A.2
+
+1 Russian gerontological scientific and clinical center, Moscow
+2 Peoples' Friendship University of Russia, Moscow
+
+The population of the Earth is aging, and this process is largely due to advances in pharmacology. The appointment of modern medicines to elderly people
+contributes to the prolongation of their life, prevents the development of certain diseases and complications, but the use of excessive amounts of drugs by el-
+derly people can lead to adverse drug events, including serious and fatal ones. At the same time, as the patients become older and frailer, the emphasis of
+pharmacotherapy shifts towards controlling the symptoms of diseases, improving the quality of life and minimizing the use of potentially dangerous pre-
+ventive drugs that will benefit little over a relatively short expected life expectancy. To reduce the risk of negative consequences of polypharmacy in elderly
+patients, a number of approaches can be recommended that include educational activities, ancillary computer systems, and modern methods presented by
+the authors in this article: anticholinergic load scales, STOPP / START criteria, Bierce criteria, index of rational drugs administration, comorbidity indices.
+The use of these tools during the drug audit can reduce the drug load and improve the safety of pharmacotherapy.
+Key words: elderly, safety, polypharmacy. 
+For citation: Tkacheva O.N., Pereverzev A.P., Runikhina N.K. et al. Optimization of medicinal prescriptions in patients of elderly and senile age: is it possible
+to defeat polypharmacy? // RMJ. 2017. № 25. P. 1826–1828.

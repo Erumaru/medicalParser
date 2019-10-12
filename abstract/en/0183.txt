@@ -1,0 +1,25 @@
+Study of melittin histamine-liberating properties, obtained from the domestic bee venom
+O.V. Mislavsky1, T.G. Fedoskova1,2, D.V. Shabanov1,3, A.I. Martynov1, S.R. Mashtakova1, E.D. Golovkina1
+
+1National Research Center — Institute of Immunology, Moscow
+2Pirogov Russian National Research Medical University, Moscow
+3Yevdokimov Moscow State University of Medicine and Dentistry
+
+Aim: to study melittin histamine-liberating properties, obtained from bee venom of the domestic manufacturer.
+Patients and Methods: the study of melittin histamine-liberating properties, obtained from bee venom purified extracts — the raw of the 
+company “Apis” LLC, was carried out according to the method for determining the histamine release from rat mast cells. The work was 
+carried out using the mast cells received from the peritoneal fluid of male Wistar rats. Melittin was tested at concentrations of 0.1, 0.25, 
+0.5, 1, 2.5, 5 and 10 μg/ml. Melittin obtained from the bee venom of the company Sigma was taken as a reference drug. The melittin 
+samples used in the work were received using chromatographic separation, gel filtration by FPLC Pharmacia Biotech medium pressure 
+chromatographic system, and Superdex 75HR column calibrated by molecular weight.
+Results: it was revealed that melittins, obtained from the bee venoms of the “Apis” LLC and Sigma companies, did not significantly differ 
+among themselves by their dose-dependent effect on the histamine release from mast cells. It has been established that melittin causes the 
+histamine release from mast cells of less than 10% in concentrations from 0.1 to 0.25 μg/ml. Conducted study tests revealed that the melittin 
+concentrations 5 and 10 μg/ml are the most toxic for mast cells. The ninhydrin inhibitory effect study on the histamine release from mast 
+cells, caused by melittin, showed the ability to reduce the melittin toxic effect on mast cells under the inhibitor action of free NH2-groups. The 
+ninhydrin inhibitory effect on the histamine release from mast cells was detected in concentrations of 0.001 and 0.0001 M.
+Conclusion: the authors of the study showed the same dose dependence of the melittin histamine-liberating action from domestic raw bee 
+venom and melittin from Sigma bee venom, which will allow us to investigate melittin from the bee venom of the domestic manufacturer.
+Keywords: insect allergy, honey bee, Apis mellifera, bee venom, melittin, target cells, allergy, mast cells, histamine, ninhydrin.
+For citation: Mislavsky O.V., Fedoskova T.G., Shabanov D.V. et al. Study of melittin histamine-liberating properties, obtained from the domestic 
+bee venom. RMJ. 2019;1(II):47–50.

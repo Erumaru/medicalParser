@@ -1,0 +1,19 @@
+Updated risk stratification and risk management plan for Natalizumab-associated progressive multifocal leukoencephalopathy
+Khachanova N.V.1,2, Davydovskaya M.V.1,2, Evdoshenko E.P.2,3
+
+1 Russian National Research Medical University named after N.I. Pirogov, Moscow
+2 Center of Clinical Trials and Health Technology Assessment of Moscow Department of Healthcare
+3 City Clinical Hospital №31, Saint-Petersburg
+
+Natalizumab is approved for the treatment of patients with active relapsing-remitting multiple sclerosis (RRMS). As a rule, the drug is recommended for pa-
+tients with aggressive course of MS or in case of ineffective therapy with immunomodulating drugs of the first line. The expected benefits of treatment should
+exceed the possible risks, especially with regard to the development of a serious complication in the form of progressive multifocal leukoencephalopathy
+(PML). The group with the highest risk of PML includes patients who receive natalizumab for more than 24 months, who have a seropositive JCV antibody
+status, and previously received immunosuppressive therapy (IST). Studies have shown that early detection of PML and the urgent treatment of "asympto-
+matic" PML (which reaches 90% according to some authors) can lead to better outcomes.
+The report of the European Medical Agency in April 2016 and the issuance of a new medication guide for natalizumab served as a basis for reviewing the pre-
+vious recommendations on natalizumab treatment managment plan, including MRI monitoring schedule and risk stratification algorithm. This algorithm will
+allow an individualized approach to PML risk assessment in seropositive patients wishing to continue treatment with natalizumab for more than 24 months.
+Key words: progressive multifocal leukoencephalopathy, natalizumab, JCV antibody, active multiple sclerosis.
+For citation: Khachanova N.V., Davydovskaya, M.V. Evdoshenko E.P. Updated risk stratification and risk management plan for Natalizumab-associated pro-
+gressive multifocal leukoencephalopathy // RMJ. 2017. № 13. P. 930–934.

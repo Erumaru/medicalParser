@@ -1,0 +1,17 @@
+Stereotactic biopsy of brain tumors with MRI planning
+ShcherbanA.E., Ivanov P.I., Cherkashin M.A., Zhelbunova E.A.
+
+Medical and Diagnostic Center of International Institute of Biological Systems named after Berezin Sergei, St. Petersburg
+
+Currently, stereotactic biopsy is a widespread minimally invasive intervention in neurosurgical practice. It is performed in pathological voluminous formations
+inaccessible for open surgical interventions or in the case of a high risk of complications during anesthesia.
+Histological diagnosis is crucial for building the right treatment plan (radiation therapy, chemotherapy) and determining the prognosis of the disease. The
+success of the stereotactic biopsy depends on the state of the stereotaxic apparatus, the modern specialized software for determining the coordinates of the
+target and the careful step-by-step execution of the algorithm for performing this manipulation.
+The work describes in detail the indications for a stereotactic biopsy, the technique of its implementation, and the factors that influence the success of the
+study. Clinical examples of patients, examined and operated in MIBS, with various pathological processes of the brain are presented.
+An analysis of the work has shown that stereotactic biopsy of pathological formations of the brain is a safe and effective method of diagnosis.
+The data obtained correspond to the data of large neurosurgical centers. The diagnostic reliability of a stereotactic biopsy is 93-96%.
+Key words: stereotactic biopsy, stereotaxic biopsy of brain tumors, brain tumor, encephalitis, primary CNS lymphoma, radio necrosis, Leksell Stereotactic
+System®, immunohistochemical study, brain biopsy technique.
+For citation: ShcherbanA.E., Ivanov P.I., Cherkashin M.A., Zhelbunova E.A. Stereotactic biopsy of brain tumors with MRI planning // RMJ. 2017. № 16.

@@ -1,0 +1,32 @@
+Mechanism-directed therapy for pain in osteoarthritis
+E.S. Filatova1, A.E. Karateev1, E.G. Filatova2
+
+1 Nasonova Research Institute of Rheumatology, Moscow
+2 Sechenov University, Moscow
+
+About 30% of patients with osteoarthritis (OA) have a mixed nature of pain: inflammatory pain combined with central sensitization 
+(CS).  Pain  in  CS  is  determined  by  the  ineffectiveness  of  therapy  with  nonsteroidal  anti-inflammatory  drugs  (NSAIDs),  the 
+presence of neuropathic descriptors, the absence of the somatosensory nervous system impairment and clinically significant 
+depression or anxiety, as well as the effectiveness of using drugs with the central mode of action (antiepileptic agents).
+Aim: evaluation of the effectiveness of the antiepileptic agent pregabalin in the treatment of chronic pain syndrome of a mixed 
+nature in patients with OA of the knee.
+Patients and Methods: 60 patients with OA of the knee were involved in the study. The median age was 59.82±4.46 years. 
+The patients were divided into two groups of 30 people. Groups were randomly formed. Group I received NSAIDs + pregabalin 
+therapy and group II only NSAIDs monotherapy. Clinical neurological status, functional index WOMAC, pain intensity during 
+movement, pain diagnosis (DN4 questionnaire and Pain DETECT), emotional-affective sphere assessment (HADS questionnaire), 
+pain intensity assessment on a visual analogue scale (VAS) at rest, quality of life assessment (questionnaire EQ-5D).
+Results:  the  clinical  neurological  study  did  not  reveal  a  pathology  of  the  peripheral  or  central  nervous  system  capable  of 
+explaining the occurrence of neuropathic pain in the patients. In this regard, the presence of neuropathic pain descriptors, 
+detected using DN4, was regarded as a CS. A study of the treatment of patients with OA with a mixed mechanism of pain 
+(inflammatory + CS) showed a more pronounced and long-lasting effect of therapy, aimed at both mechanisms compared with 
+
+82
+
+РМЖ, 2018 № 12 (II)РевматологияОригинальные статьи
+anti-inflammatory monotherapy. In the group receiving pregabalin and NSAIDs, a stable and significantly greater decrease 
+in the intensity of pain on VAS and a more pronounced change in the functional activity of the WOMAC test were observed 
+compared with NSAIDs monotherapy.
+Conclusion: the study confirms the need to determine the signs of CS in patients with OA and conduct in this subgroup a complex 
+mechanism-directed therapy, including NSAIDs and drugs with the central mode of action.
+Key words: osteoarthritis, central sensitization, NSAIDs, pregabalin, chronic pain syndrome.
+For citation: Filatova E.S., Karateev A.E., Filatova E.G. Mechanism-directed therapy for pain in osteoarthritis // RMJ. 2018. 

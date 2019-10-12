@@ -1,0 +1,20 @@
+Drug inhibitory effect, based on algae oil extract, on the herpes virus reproduction in cell culture in vitro
+N.D. Lvov, A.V. Melnichenko, L.M. Alimbarova, A.A. Nikitina
+
+Gamalei National Research Center for Epidemiology and Microbiology, Moscow
+
+Aim: to study the drug based on the algae oil extract (AOE) for the herpes simplex virus (HSV 1, 2) reproduction in an in vitro experiment on 
+the sensitive model — the cell culture.
+Patients and Methods: the study included the following actions: determination of the drug cytotoxicity on cell culture, determination of the 
+drug antiviral action directly in the cells, determination of virus reproduction inhibition after drug exposure and the HSV infectious activity 
+in enzyme immunoassay (ELISA).
+Results: the concentrations, at which the drug does not have the cytotoxic effect on the sensitive cell line culture, were determined — 50% tissue 
+cytopathic dose (TCD50/ml) was 0.0055% AOE solution. 0.001% drug concentration is TCID50/ml — the dose inhibiting the virus replication 
+by 50%, giving a maximum decline by 2 lg TCID50/ml for HSV-1 («L2») and by 1.75 lg TCID50/ml for HSV-2 («VN») of virus infectious activity 
+through the prophylactic regimen (1 hour before virus exposure).
+Conclusion: the AOE drug inhibitory effect was established — chemotherapeutic index for AOE drug was 5.5, which indicates the drug antiviral 
+activity. AOE is a new promising drug with another mechanism of action, different from the generally accepted drugs such as acycloguanosine 
+drugs, for the HSV infection treatment.
+Keywords: herpes simplex virus, HSV, cell culture, algae oil extract, antiviral effect, in vitro.
+For citation: Lvov N.D., Melnichenko A.V., Alimbarova L.M., Nikitina A.A. Drug inhibitory effect, based on algae oil extract, on the herpes virus 
+reproduction in cell culture in vitro. RMJ. 2019;1(II):51–55.

@@ -1,0 +1,22 @@
+Acetyl-L-Carnitine Supplementation and the Treatment of Depressive Symptoms: A Systematic Review  
+and Meta-Analysis (summary)
+
+Aim: deficiency of acetyl-L-carnitine (ALC) seems to play a role in the risk of developing depression, indicating a dysregulation 
+of fatty acid transport across the inner membrane of mitochondria. However, data about ALC supplementation in humans are 
+limited. We thus conducted a systematic review and meta-analysis investigating the effect of ALC on depressive symptoms across 
+randomized controlled trials (RCTs).
+Patients and Methods: a literature search in major databases, without language restriction, was undertaken from inception 
+until  30  December  2016.  Eligible  studies  were  RCTs  of  ALC  alone  or  in  combination  with  antidepressant  medications,  with  
+a control group taking placebo/no intervention or antidepressants.
+Results: twelve RCTs (11 of which were ALC monotherapy) with a total of 791 participants (mean age 54 years,% female 65%) were 
+included. Pooled data across nine RCTs (231 treated with ALC versus 216 treated with placebo and 20 no intervention) showed 
+that ALC significantly reduced depressive symptoms (SMD = -1.10, 95% CI -1.65 to -0.56). In three RCTs comparing ALC versus 
+antidepressants (162 for each group), ALC demonstrated similar effectiveness compared with established antidepressants in reducing 
+depressive symptoms (SMD = 0.06, 95% CI -0.22 to 0.34). In these latter RCTs, the incidence of adverse effects was significantly lower 
+in the ALC group than in the antidepressant group. Subgroup analyses suggested that ALC was most efficacious in older adults.
+Conclusions: ALC supplementation significantly decreases depressive symptoms compared with placebo/no intervention, while 
+offering a comparable effect with that of established antidepressant agents with fewer adverse effects. Future large scale trials 
+are required to confirm/refute these findings.
+Key words: acetyl-L-carnitine, depression, meta-analysis, antidepressants.
+For citation: Acetyl-L-Carnitine Supplementation and the Treatment of Depressive Symptoms: A Systematic Review and Meta-
+Analysis (summary) // RMJ. 2018. № 4(II). P. 69–73.

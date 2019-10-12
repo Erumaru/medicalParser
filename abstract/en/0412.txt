@@ -1,0 +1,18 @@
+Use of selenium in medical practice (review)
+Shestakova T.P. 
+
+Moscow regional research clinical institute named after M.F. Vladimirskiy
+
+Selenium is a microelement, which is part of the enzymes, that play an important role in the work of the thyroid gland, reproductive, immune systems and in
+carcinogenesis.
+People receive selenium from food and water. There are selenium deficient regions on the planet, where selenium deficient diseases are common. Both lack
+of selenium, and its excess are unfavorable for human health. The main organ that uses selenium is the thyroid gland. It contains the largest amount of se-
+lenoproteins that regulate the formation of active and inactive forms of thyroid hormones, and also protect the thyroid gland from oxidative stress. Seleni-
+um effectively reduces the level of thyroperoxidase (TPO) antibodies in patients with autoimmune thyroiditis, improves the quality of life of patients with en-
+docrine ophthalmopathy. Its role in the formation of diffuse and nodular goiter, as well as thyroid cancer, is studied. Researches on the effectiveness of in-
+cluding selenium in the treatment of Basedow's goiter are conducted. At present, large-scale studies on the effect of selenium on the replacement dose of
+levothyroxine sodium and the quality of life of patients with hypothyroidism have not yet been completed. Despite many unresolved issues, selenium is al-
+ready used in the clinical practice of endocrinologists. The main indications for the appointment of selenium are autoimmune thyroiditis and endocrine oph-
+thalmopathy.
+Key words: selenium, thyroid, autoimmunity, TPO antibody, autoimmune thyroiditis, Graves’ disease, endocrine orbitopathy. 
+For citation: Shestakova T.P. Use of selenium in medical practice (review) // RMJ. 2017. № 22. P. 1654–1659.

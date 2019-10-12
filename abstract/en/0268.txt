@@ -1,0 +1,30 @@
+Subjective assessment of daytime sleepiness in patients with obstructive sleep apnea and snoring
+A.Yu. Melnikov, S.O. Kravchenko
+
+Research and Clinical Center of Otorhinolaryngology, Moscow
+
+Objective. To compare subjective methods of daytime sleepiness assessment and to identify correlation between daytime sleepiness, obstructive sleep apnea
+(OSA) and its severity by means of polysomnography (PSG). 
+Material and methods. The study included 200 patients (152 men and 48 female), mean age 44,6±0,83. PSG revealed severe OSAS in 103 patients, moder-
+ate - in 42, mild - in 50, no OSAS - in 5 patients. Epworth Sleepiness Scale (ESS) scores were evaluated as well as two single questions about daytime sleepi-
+ness and imperative sleep onset. Correlation between ESS score, answers to single questions, OSAS severity (by apnea/hypopnea index - AHI) and chronic
+nocturnal hypoxemia severity (by average oxygen saturation) was determined.
+
+856
+
+РМЖ, 2016 № 13
+
+
+Неврология
+
+Сомнология
+
+Results. Correlation between three subjective methods of daytime sleepiness severity assessment was weak. AHI association with ESS score was very weak
+(r = 0,26, p <0,01). ESS score statistically significant differed between severe and mild OSAS groups, but there was no difference between mild and moder-
+ate as well as moderate and severe OSAS groups. Correlation between average saturation and ESS score was revealed (r =-0,31, p <0,01). 
+Conclusions. No significant correlation between patient's assessment of daytime sleepiness and ESS score was revealed. ESS score and OSAS severity cor-
+related weakly. Results demonstrate the necessity to perform accessible and reliable methods for objective daytime sleepiness assessment in patients with
+snoring and sleep breathing disorders. Primary snoring prevalence in studied population was insignificant, as well as snoring intensity in patients without
+OSAS according to PSG.
+Keywords: sleep apnea, daytime sleepiness, Epworth Sleepiness Scale (ESS)
+For citation: Melnikov A.Yu., Kravchenko S.O. Subjective assessment of daytime sleepiness in patients with obstructive sleep apnea and snoring // RMJ. 2016.

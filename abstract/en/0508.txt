@@ -1,0 +1,34 @@
+Immune system condition in patients with lower limb varicose vein disease
+I.M. Vasiliev1,2, M.P. Rykova2, L.I. Bogdanets3, S.A. Ponomarev2, E.N. Antropova2, S.A. Kalinin2, S.K. Tagirova1,2,  
+V.V. Seleznev1, I.P. Marchenko1
+
+1 Bauman City Clinical Hospital No.29, Moscow
+2 Institute of Medical and Biological Problems of the Russian Academy of Sciences, Moscow
+3 Pirogov Russian National Research Medical University, Moscow
+
+Aim: to study the state of innate and adaptive immunity in patients with lower limb varicose vein disease (LLVVD) of C4 and C6 
+clinical class according to CEAP classification.
+Patients and Methods: the study involved 34 patients with LLVVD who were on outpatient treatment in phlebological center 
+of the Pirogov City Clinical Hospital No.1. The control group consisted of 17 healthy volunteers. In the peripheral blood were 
+assessed by the absolute and relative count of:
+1) monocytes and granulocytes, expressing receptors TLR2, TLR4, TLR6, CD11b, CD16, CD18, CD24, CD36, CD54, CD206;
+2) lymphocytes, expressing receptors on its surface CD16, CD56, CD3, CD4, CD8, CD19, CD25, СD45RA, CD45RO.
+Results: an analysis of the receptor repertoire of cellular factors of natural resistance in patients with LLVVD of C4–C6 classes 
+of changes in the system of pattern recognition receptors associated with a significant increase (p<0.05) of granulocytes and/or 
+monocytes in the peripheral blood, expressing signal Toll-like receptors — TLR2, TLR4 and TLR6, on their surface, compared 
+with healthy volunteers.
+The study of the relative and absolute count in the peripheral blood of cellular factors of the natural cytotoxicity system — 
+mature circulating NK-cells — in patients with LLVVD showed that these indicators did not significantly differ from those in 
+healthy persons.
+
+54
+
+РМЖ, 2018 № 6 (II)Ангиология/ГемостазОригинальные статьи
+Analysis of the T-lymphocyte subpopulations level in the peripheral blood allowed noting some features of the T-cells phenotype 
+of adaptive immunity depending on the severity of CVI.
+Conclusion: this study of systemic immunity in patients with lower limb varicose vein disease of various clinical classes has 
+shown that patients with LLVVD of C4 clinical class, as well as patients with LLVVD of C6 clinical class, have changes in the 
+subpopulation count of immune competent cells and their functional activity.
+Key words: lower limb varicose vein disease, venous trophic ulcer, innate immunity, adaptive immunity.
+For citation: Vasiliev I.M., Rykova M.P., Bogdanets L.I. et al. Immune system condition in patients with lower limb varicose vein 
+disease // RMJ. 2018. № 6(II). P. 54–60.

@@ -1,0 +1,17 @@
+Immunogenicity of insulin preparations: a keystone to safety assessment
+A.A. Mosikian1,2, A.Yu. Babenko1, I.E. Makarenko2
+
+1Almazov National Medical Research Centre, Saint Petersburg
+2 LLC “Geropharm”, Saint Petersburg
+
+Having protein nature, biological preparations can cause an immune response development (IRD) in patients. IRD risks are determined by both 
+the drug properties and the patient’s characteristics receiving the drug. The consequences of IRD vary in severity from the antibody transient 
+occurrence to life­threatening conditions. Insulin preparations are biological medicinal products. Despite the low IRD risk during the administration 
+of modern biosynthetic and human insulin analogues, all the possible drug­associated risks should be taken into account. This review contains 
+information on the population selection for clinical trials of original and biosimilar insulin preparations based on patient­associated IRD risks 
+(immune status, age, antibodies at treatment onset). Much attention is given to drug­associated immunogenicity factors: primary insulin structure, 
+adjuvants and excipients presence, and its administration regimen. An approach to ensuring the biosimilar preparations safety that meets the 
+international regulatory requirements was considered (by the relevant physicochemical tests and comparative immunogenicity studies), using 
+the example of biosimilar insulin preparations.
+Keywords: insulin, biosimilar, immunogenicity, immune response, antibodies.
+For citation: Mosikian A.A., Babenko A.Yu., Makarenko I.E. Immunogenicity of insulin preparations: a keystone to safety assessment. RMJ. 

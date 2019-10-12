@@ -1,0 +1,27 @@
+Tau protein level as a cognitive impairment marker in diabetes mellitus
+M.V. Matveeva1, Yu.G. Samoilova1, N.G. Zhukova1, D.A. Kudlay2
+
+1Siberian State Medical University, Tomsk
+2NRC Institute of Immunology, Moscow
+
+Diabetes mellitus (DM) is a polyetiological metabolic disease accompanied by systemic damage to organs, including the central nervous 
+system. Clinically, these changes are associated with cognitive impairment, the pathogenesis of which is also largely heterogeneous.
+Aim: to assess the tau protein role in the cognitive impairment diagnosis in patients with type 1 and type 2 DM.
+Patients  and  Methods:  the  study  was  approved  by  the  Ethics  Committee.  All  patients  signed  informed  consent.  The  study  design  was 
+observational, cross­sectional and snapshot. It included 63 patients with type 1 DM, whose average age was 29.1±8.5 years, and the control 
+group of 25 subjects matched for sex and age. In addition, 102 patients with type 2 DM at the age of 60.8±11.9 years were also recruited, 
+whereas the control group consisted of 20 subjects matched by sex and age. Patients underwent the evaluation for blood glucose, glycated 
+hemoglobin (HbA1c), and tau protein levels. Cognitive functions were tested using the Montreal Cognitive Assessment (MoCA). To assess 
+glucose variability, glycemia continuous monitoring was performed with coefficients estimated.
+Results: patients with type 1 and type 2 DM had cognitive impairment (25.5 (24–27) and 21.3 (19–24)) points, according to MoCA test. The 
+impairment clinical spectrum varied depending on the DM type. When assessing the tau protein level, a significant increase in its content 
+was registered among patients with type 1 and type 2 DM (p=0.001, U=113.0; p=0.001; U=11.0). Correlation analysis showed a moderate 
+positive  association  of  tau  protein  level  with  fasting  glycemia  levels  (r=0.6,  p<0.001),  glycated  hemoglobin  (r=0.5,  p<0.001),  and  high 
+positive association — with MoCA test (r=0.9, p<0.001). Adding that, in the group with type 2 DM, a weakly positive association was found 
+between the tau protein level and the presence of cognitive impairments (r=0.2, p<0.001), and strong positive association — with the age of 
+patients (r=0.8, p<0.001). Significant associations in coefficients of variation and associations with tau protein level were found only in the 
+group with type 1 DM.
+Conclusion: in DM, cognitive impairments development is associated with tauopathy and chronic hyperglycemia.
+Keywords: diabetes mellitus, hyperglycemia, tau protein, cognitive impairments, tauopathy.
+For citation: Matveeva M.V., Yu.G. Samoilova, Zhukova N.G., Kudlay D.A. Tau protein level as a cognitive impairment marker in diabetes 
+mellitus. RMJ. 2019;4:50–53.

@@ -1,0 +1,26 @@
+Allergen concentrations optimization for basophil activation test
+N.V. Bychkova1,2, A.E. Uchevatkina3, Ya.I. Kozlova3, E.V. Frolova3, G.A. Novik4, N.M. Kalinina1,2
+
+1Nikiforov All-Russian Center for Emergency and Radiation Medicine, Saint Petersburg
+2Pavlov First St. Petersburg State Medical University
+3North-Western State Medical University named after I.I. Mechnikov, Saint Petersburg
+4Saint Petersburg State Pediatric Medical University
+
+Cell function testing, for which an optimal conditions selection has proceeded, has been recently proposed to improve the possibility of sen-
+sibilization detection to such allergen types as food, drug, inhalation. Basophil activation test is considered as a provocation in vitro test. It 
+showed high sensitivity and specificity to a large range of allergens.
+Aim: to study an allergen concentration impact on basophil activation in vitro in different patient groups.
+Patients and Methods: 5 patients with allergic bronchopulmonary aspergillosis, 9 patients with atopic asthma without mycetogenic sensitization, 
+11 patients with atopic dermatitis (6 — with sensitization to wheat flour allergen, and 5 — without it) were examined. Laboratory examination in-
+cluded determination of the specific IgE level and basophil activation in vitro test by flow cytometry with allergen concentrations (Alkor Bio, Russia) 
+from 0.5 to 100 µg/ml.
+Results: the number of activated basophils expressing CD203c advanced with the allergens concentration increase in the samples. The value of 
+choosing the optimal allergens concentration of Aspergillus fumigatus and wheat flour in the basophil activation test to exclude false positive and 
+false negative results was demonstrated. The method accuracy improvement requires low activation index to increase sensitivity and low but suffi-
+cient allergen concentration used for the specificity increase to activate basophils. The optimal concentrations range for both allergens in the basophil 
+activation test was from 2 to 10 µg/ml. It was shown that the cells activation degree in interaction with a mycotic allergen is higher than with food.
+Conclusion: detection of patient sensitization in basophil activation test using the allergen optimal dosage coincides with the history data, skin 
+test positive results and the level of specific IgE to allergens.
+Keywords: allergic diseases, sensitization, basophil activation test, concentration, allergens, IgE, allergic bronchopulmonary aspergillosis, 
+atopic dermatitis.
+For citation: Bychkova N.V., Uchevatkina A.E., Kozlova Ya.I. et al. Allergen concentrations optimization for basophil activation test. RMJ. 

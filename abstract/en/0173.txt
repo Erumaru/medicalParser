@@ -1,0 +1,36 @@
+Modern approaches to assessing the efficiency of carotid endarterectomy in the acute period of ischemic stroke
+Stafeeva I.V.1, Voznyuk I.A.2, Dudanov I.P.1
+
+1 Petrozavodsk State University
+2 St. Petersburg research institute of emergency care named after I. I. Janelidze
+
+Inroduction. Currently, the advantages of surgical treatment over conservative methods in patients with hemodynamically significant stenosis of the carotid
+arteries are actively discussed. The main discussion issues at present are the time from the onset of the stroke to the operation and the criteria for selecting
+patients for the surgical intervention. Now the most relevant methods are the neurophysiological methods of studying spontaneous and induced brain activity,
+which can reveal functional disorders and important prognostic deviations.
+The aim of this study was to analyze the dynamics of the spectral-coherent EEG indices and somatosensory evoked potentials in patients with ischemic
+atherothrombotic stroke, who underwent carotid endarterectomy on the side of the infarction in the acute period.
+Patients and methods.We examined 106 patients with ischemic stroke, who underwent carotid endarterectomy in the acute period, analyzed the spectral, co-
+herent EEG characteristics and amplitude-latentindicators of somatosensory evoked potentials in the postoperative period. The dynamics of power spectra,
+intra-hemispheric EEG, latency and amplitude of somatosensory evoked potentials and clinical indices were compared.
+Results. The results of the study revealed a significant inhibition of alpha activity on the side of both hemispheres, a decrease of intra-hemispheric coherence
+and amplitude of N20-P23 on the side of clinically intact hemisphere. These data correlated with the severity of the clinical condition, assessed by the NIHSS
+scale. The increase in the latency indices of the N30 and P45 peaks in comparison with the first day's indices both on the side of the lesion and on the side of
+the clinically intact hemisphere remained for the first 2 weeks after the operation. On the side of the clinically intact hemisphere, by the end of the second
+week after the operation, the latencies of the peaks P23, N30 and P45 were higher compared to the control group.
+
+РМЖ, 2017 № 13
+
+945
+
+
+Оригинальные статьи
+
+Неврология
+
+Conclusions. For the carotid endarterectomy in an acute period of ischemic stroke, the complex of electroneurophysiological characteristics (violation of co-
+herence, reduction of amplitudes of evoked potentials, etc.) can be used as a prognostic marker determining the period of recovery of neurologic deficit in the
+postoperative period.
+Key words: ischemic stroke, electroencephalography, carotid endarterectomy, power spectra, coherence, somatosensory evoked potentials.
+For citation: Stafeeva I.V., Voznyuk I.A., Dudanov I.P. Modern approaches to assessing the efficiency of carotid endarterectomy in the acute period of ischemic
+stroke // RMJ. 2017. № 13. P. 945–949.

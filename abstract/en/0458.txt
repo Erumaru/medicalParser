@@ -1,0 +1,24 @@
+The informative value of diagnostic tests in urogenital tuberculosis screening
+Shevchenko S.Yu.1,2, Kulchavenya E.V.1,2, Laushkina Zh.A.1
+
+1 Novosibirsk Research Institute of Tuberculosis 
+2 Novosibirsk State Medical University
+
+Despite a slight decrease in the share of urinogenital tuberculosis (UT) in the structure of the incidence rate of extrapulmonary forms of tuberculosis, its
+medical, epidemic and social significance is great. Urinogenital tuberculosis (UT) is characterized by polymorphism of clinical manifestations and the absence
+of pathognomonic symptoms, which significantly complicates its recognition. 
+The aim of the study was to determine the informative value of the recombinant tuberculosis antigen in standart dilution (RTA) as a screening method in the
+differential diagnosis of UT.
+Patients and methods. A simple open cohort study was conducted. It included 126 patients who received treatment the extrapulmonary tuberculosis depart-
+ment of the Novosibirsk Research Institute of Tuberculosis in 2014-2015. Patients were divided into three groups: group 1 - patients with active UT, n = 31
+(24.6%); group 2- patients with inactive UT, n = 16 (12.7%); group 3 - patients with chronic infections of the urogenital tract with excluded UT, n = 79
+(62.7%). The comparison group included 105 patients aged from 18 to 78 years hospitalized with suspected respiratory tuberculosis (RT). In addition to the
+standard clinical-laboratory, X-ray and bacteriological examination, they all had a skin test with RTA.
+Results. The RTA sensitivity in adult patients with pulmonary tuberculosis was 74.5%, the RTA specificity in RT was 86%. RTA sensitivity in patients with ac-
+tive UT was 78.6%, and sensitivity of subcutaneous challenge tuberculin test was 82.8%. Thus, the false positive result of RTA in patients without tuberculosis
+was 76.9%, and there were no any false positive results of Koch’s test, which indicates an extremely low specificity of RTA (23.1%) for urogenital tuberculosis
+in adults.
+Conclusions. RTA can be used in UT screening, though its positive result cannot be used as a basis for establishing a diagnosis, but only as a reason for an
+additional phthisiourological examination.
+Key words: tuberculosis, diagnostics, recombinant tuberculosis antigen in standart dilution, Koch’s test, urinogenital tuberculosis.
+For citation: Shevchenko S.Yu., Kulchavenya E.V., Laushkina Zh.A. The informative value of diagnostic tests in urogenital tuberculosis screening // RMJ. 2017.
