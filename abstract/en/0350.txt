@@ -1,0 +1,30 @@
+Experience  with  the  new  Bethesda  system  for  reporting  thyroid  cytopathology  in  evaluating  the  results  of  fine  needle 
+aspiration cytology of thyroid nodules
+O.A. Nechaeva, L.G. Bavykina, A.A. Glazkov, T.A. Britvin
+Moscow Regional Research and Clinical Institute named after M.F. Vladimirskiy
+Aim: to assess the accuracy on fine needle aspiration (FNA) cytology in verification of thyroid carcinoma.
+Patients and Methods: the retrospective study of 1675 case report form was performed. Thyroid ultrasound and FNA were 
+performed  on  all  patients  during  2016.  All  thyroid  cyto-pathological  slides  were  reviewed  and  classified  according  to  the 
+Bethesda  System  for  Reporting  Thyroid  Cytopathology  (TBSRTC).  During  statistical  processing,  the  relative  and  absolute 
+frequencies of occurrence of characteristic values (categories on TBSRTC in the prediction of thyroid cancer malignancy of 
+tumors, etc.), the sensitivity, specificity, the prognostic value of the positive (PPV)  and negative result (NPV) were calculated.
+Results and Discussion: 115 cases with high cancer risk were communicated to the surgeon, thyroid carcinoma was detected 
+in 46 (40%) cases. The sensitivity of FNA cytology diagnostic in the detection of thyroid carcinoma for categories IV+V+VI on 
+TBSRTC were 89,1% (95% CI 77–95,3%). The specificity of FNA diagnostic accuracy were 46,3% (35,1–58%) for category IV 
+malignant, 97,1% (90–99,2%) for category V and 100% (94,7–100%) for category VI category on TBSRTC. The prognostic 
+value of the PPV and NPV results of the cytological study for detection of thyroid cancer in the nodules of IV–VI categories 
+on TBSRTC is calculated. The highest value of positive and negative results was recorded in VI category, that is, a positive 
+result (the presence of a malignant tumor) in a cytological study was confirmed by histological examination. The least value of 
+positive and negative cytological results was expected in IV category, the method allowed to reveal thyroid cancer only in 30,4% 
+and allowed to exclude it only in 53,6%.
+
+ РМЖ, 2018 № 1 ( I )
+
+23
+
+
+Conclusions: fine needle aspiration cytology in the diagnosis of thyroid lesion using the Bethesda system for reporting thyroid 
+carcinoma is an informative method. However, further studies are still needed to verify thyroid cancer in IV category on TBSRTC.
+Key words: carcinoma, Bethesda system, thyroid, fine needle aspiration, sensitivity, specificity, prognostic value.
+For citation: Nechaeva O.A., Bavykina L.G., Glazkov A.A., Britvin T.A. Experience of using the Bethesda system in evaluating the 
+results of fine needle biopsy of thyroid nodules // RMJ. 2018. № 1 (I). P. 23–27.

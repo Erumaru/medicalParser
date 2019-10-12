@@ -1,0 +1,34 @@
+Assessment of the Candida spp. composition isolated from various biotopes and their sensitivity to antifungal drugs
+V.V. Novikova1, S.G. Ezov2
+
+1Perm State Pharmaceutical Academy
+2LLC “Laboratory Technologies”, Perm
+
+Fungal infection problem continues to be relevant for many decades, especially when manifested in the setting of various immunodeficiency 
+conditions. A resistance development to antimycotic drugs is a natural phenomenon that occurs during the fungi population interaction with 
+antifungal drugs.
+Aim: to study the etiological structure of infections caused by Candida spp. according to data for 2017, and to analyze the isolated strains’ 
+sensitivity indicators to the most frequently used antimycotics.
+Patients and Methods: the patients’ bio­substrates from Perm multidisciplinary clinics were studied concerning the Candida spp. isolation. 
+Chromogenic  agar  was  used  for  Candida  spp.  differentiation  (HiMedia  Laboratories).  The  disc­diffusion  method  was  used  to  assess  the 
+sensitivity of the fungal isolated strains.
+Results: most of the isolated Candida genus representatives (71.3%) were not typed to the species. C. albicans isolates (22,2%) prevailed 
+among typed pathogens, whereas С. krusei, C. glabrata and C. tropicalis were isolated in 5.0%, 1.4% and 0.1% of cases, respectively. 
+It  was  revealed  that  commonly  resistance  was  concentrated  on  ketoconazole  and  fluconazole  (30.8–100.0%  and  52.9–100.0%  of 
+strains, respectively). When analyzing the isolated strains’ resistance, it was also noted that C. albicans and C. glabrata isolates from 
+the upper respiratory tract (URT) had a slightly higher resistance to the studied antimycotics, whereas there was more resistance in 
+C. krusei isolates from the urinary tract. Thus, high sensitivity identification of these С. krusei strains to clotrimazole is an important 
+practical point.
+
+РМЖ, 2019 № 4
+
+67
+
+
+Conclusion: C. albicans isolates’ prevalence was revealed regardless of the biological material. It was also established that there was a high 
+resistance in the isolated strains to imidazole and triazole derivatives. The results revealed that there was a high isolation frequency of strains 
+that did not undergo species identification and, as a consequence, sensitivity determination to antifungal drugs, which led to the empirical 
+prescription of antimycotics.
+Keywords: fungal infections, Candida spp, Candida albicans, etiology, resistance, antimycotics, clotrimazole.
+For  citation:  Novikova  V.V.,  Ezov  S.G.  Assessment  of  the  Candida  spp.  composition  isolated  from  various  biotopes  and  their  sensitivity  
+to antifungal drugs. RMJ. 2019;4:67–71.

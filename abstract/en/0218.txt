@@ -1,0 +1,20 @@
+Algorithm for diagnosis and treatment of iron deficiency in children
+T.M. Vasilyeva1,2, I.N. Zakharova1, A.L. Zaplatnikov1, S.I. Lazareva2, E.B. Machneva1
+
+1 Russian Medical Academy of Continuous Professional Education, Moscow
+2 Children’s City clinic № 133 of the Moscow City Health Department
+
+Iron deficiency disorders (IDD) are the most common deficiency conditions in the human population, most common in children 
+and women of reproductive age. Depending on the degree of severity of iron deficiency in the body, the latent iron deficiency 
+state (LID) and iron deficiency anemia (IDA) are identified. The clinical manifestations of IDD are non-specific, and therefore 
+their  diagnosis  is  based  on  the  identification  of  characteristic  laboratory  changes,  which  include:  a  decrease  in  the  serum 
+concentration of iron, ferritin and a decrease in the saturation index of transferrin by iron. In this case, if these laboratory 
+markers are detected at a normal level of hemoglobin, the LID is diagnosed. In the same cases, when hypochromic, microcytic 
+anemia takes place simultaneously with laboratory signs of iron deficiency (the criteria of which are reduction of hemoglobin 
+concentration, decrease in the values of «blood color indices» and average volume of erythrocytes), the IDA diagnosed. At the 
+same time, irrespective of the form of iron deficiency, the main method of therapy is the use of iron preparations. The choice of 
+specific iron-containing drugs, as well as the way they are administered, the duration of the course of treatment and the dosage 
+regimen depend on the initial degree of severity of iron deficiency, the age of the child and the state of the health in general.
+Key words: anemia, children, iron deficiency, iron deficiency anemia, latent iron deficiency.
+For citation: Vasilyeva T.M., Zakharova I.N., Zaplatnikov A.L. et al. Algorithm for diagnosis and treatment of iron deficiency in 
+children // RMJ. 2018. № 9. P. 2–7.

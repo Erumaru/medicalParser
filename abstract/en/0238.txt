@@ -1,0 +1,31 @@
+Association between rs11196288 polymorphism and stroke in patients with cardiovascular disorders
+S.Yu. Nikulina1, V.A. Shul’man1, A.A. Chernova1, S.V. Prokopenko1, D.A. Nikulin1,3, I.M. Platunova4, S.S. Tret’yakova1, A.A. Semenchukov1, 
+O.V. Marilovtseva1, A.N. Kelemeneva1, V.N. Maksimov2, A.A. Gurazheva2
+
+1V.F. Voyno-Yasenetskiy Krasnoyarsk State Medical University, Krasnoyarsk
+2Research Institute of Therapy and Preventive Medicine (branch of the Institute of Cytology and Genetics), Novosibirsk
+3Federal Siberian Research Clinical Centre, Krasnoyarsk
+4Krasnoyarsk Interregional Clinical Hospital No. 20, Krasnoyarsk
+
+Aim: to study the association between single nucleotide polymorphism (SNP) rs556621 (G > T) and stroke in patients with cardiovascular 
+disorders and its risk factors in Eastern Siberian population.
+Patients and Methods: 260 patients with stroke aged 51–62 (mean age 57 years; 157 men and 103 women) and 272 healthy individuals aged 
+51–62 (mean age 55 years; 170 men and 102 women) were enrolled in the study. Complaints and history taking, clinical examination, brain 
+CT, electrocardiography, echocardioscopy, duplex ultrasound of extracranial brachiocephalic arteries (EBA), 24-hour blood pressure and 
+heart rate monitoring, and coagulation tests were performed in the study group. Arterial hypertension, paroxysmal supraventricular tachy-
+cardia, dyslipidemia, EBA atherosclerosis, and hemostatic disorders were diagnosed in the study group. Controls were examined according 
+to the HAPIEE study protocol. Molecular genetic studies were performed using real-time PCR. Statistical analysis was performed using Sta-
+tistica for Windows 7.0, Excel, and SPSS 22 software. The study was conducted in accordance with Good Clinical Practice (GCP) principles 
+and the Declaration of Helsinki.
+
+37
+
+РМЖ. Медицинское обозрение, 2019 № 7НеврологияОт науки к практике
+Results: No significant associations between rs11196288 (A > G) gene and allele polymorphism and stroke were revealed in either group 
+or  subgroup  (patients  with  arterial  hypertension,  upraventricular  tachycardia,  EBA  atherosclerosis,  dyslipidemia,  or  hypercoagulation).  
+No gender differences in the distributions of polymorphism genes and alleles were identified as well.
+Conclusions: rs11196288 (A > G) SNP does not provide any significant effect on stroke in Eastern Siberian population despite pre-existing 
+cardiovascular disorders and risk factors.
+Keywords: stroke, supraventricular tachycardia, arterial hypertension, dyslipidemia, atherosclerosis, hemostasis, rs11196288.
+For citation: Nikulina S.Yu., Shul’man V.A., Chernova A.A. et al. Association between rs11196288 polymorphism and stroke in patients with 
+cardiovascular disorders. RMJ. Medical Review. 2019;7:37–40.

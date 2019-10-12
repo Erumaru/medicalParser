@@ -1,0 +1,24 @@
+Patient management with amiodarone-associated thyroid dysfunction. News of the European Thyroid Association 2018
+T.Yu. Demidova, Yu.S. Kishkovich, D.O. Ladigina
+
+Pirogov Russian National Research Medical University, Moscow
+
+Treatment with amiodarone is associated with the development of thyroid dysfunction and changes in laboratory parameters 
+of its functions. There are amiodarone-induced hypothyroidism (AIH) and amiodarone-induced thyrotoxicosis (AIT). There are 
+also mixed/undifferentiated forms. Although AIH can develop in patients with normal thyroid and absence of an autoimmune 
+reaction, it most often develops in patients with latent chronic autoimmune thyroiditis, prevails in women as well as in iodine-
+saturated areas.
+All patients treated with amiodarone had early (<3 months) or late (>3 months) changes in serum thyroid hormone levels in 
+the analyzes. The high content of iodine in amiodarone increases the inorganic iodine of the blood plasma and the excretion of 
+iodine with urine. Due to the Wolff-Chaikoff effect, a thyroid gland adapts to iodine overload by suppressing the organification 
+of iodine and reducing the levels of thyroid hormones. The latter effect is the main cause of an increase in serum thyrotropic 
+hormone concentration.
+While AIH is easily treated, AIT represents itself as the diagnostic and therapeutic difficulty. Most patients with AIT 2 (destructive 
+thyroiditis) are successfully treated with glucocorticosteroids, and may not need to cancel amiodarone. Treatment of AIT 1 
+(mixed/undifferentiated forms) is a much more difficult task due to the resistance of the iodine-saturated gland to antithyroid 
+drugs. Taking into account the difficulties in the diagnostic differentiation between AIT 1 and mixed/undifferentiated forms, the 
+combined treatment is often used.
+Key  words:  thyroid  dysfunction, 
+thyroidectomy, amiodarone.
+For  citation:  Demidova  T.Yu.,  Kishkovich  Yu.S.,  Ladigina  D.O.  Patient  management  with  amiodarone-associated  thyroid 
+dysfunction. News of the European Thyroid Association 2018 // RMJ. 2018. № 11(II). P. 101–104.

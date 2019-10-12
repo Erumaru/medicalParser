@@ -1,0 +1,23 @@
+Safety of biological preparations in psoriasis and psoriatic arthritis: data analysis from patient registries
+Lytkina K.A.1, Zyangirov R.R.2
+1 Clinical City Hospital No. 4, Moscow
+2 M.E. Zhadkevich Clinical City Hospital No. 71, Moscow
+
+Aim. To analyze the efficacy and safety of biologics for psoriasis and psoriatic arthritis in real-world clinical settings (by patient registry databases).
+Materials and methods. Systematic review in the literature through the PubMed database. 17 original papers which include data on the safety of biological
+therapy/survival rate from 9 registries of patients with psoriasis/psoriatic arthritis.
+Results. According to PSOLAR registry, the rate of serious infectious complications (per 100 patient-years) was 2.49 for infliximab, 1.97 for adalimumab,
+1.47 for etanercept, and 0.83 for ustekinumab. According to PsoBest, the rate of infections (per 100 patient-years) was 1.3 for infliximab, 0.52 for adali-
+mumab, 1.0 for etanercept, and 0.5 for ustekinumab. The rate of cardiovascular events (per 100 patient-years) was for 0.2 etanercept and 0.25 for ustek-
+inumab. . Malignancy rate (per 100 patient-years) was 0 for infliximab, 0.5 for adalimumab, 0.2 for etanercept, and 0.7 for ustekinumab. According to Bio-
+Capture registry, the rate of infectious and cardiovascular complications (per 100 patient-years) for etanercept was 0.93 and 2.18, respectively, while ma-
+lignancy rate (per 100 patient-years) for etanercept and adalimumab was 2.81 and 1.8, respectively. According to BADBIR, the rate of infectious complica-
+tions (per 100 patient-years) was 2.6 for infliximab, 1.02 for adalimumab, 0.1 for etanercept, and 1.1 for ustekinumab. The rate of cardiovascular events
+(per 100 patient-years) for adalimumab was 0.12. Malignancy rate (per 100 patient-years) was 0.16 for adalimumab, 0.2 for etanercept, and 0.18 for ustek-
+inumab. According to Biobadaderm registry, tuberculosis rate (per 100 patient-years) was 0.6 for infliximab and 0.27 for adalimumab. Infliximab (Dermbio)
+or ustekinumab (BADBIR) demonstrated the highest survival rate.
+Conclusions. Patient registries provide valuable information on the safety profile and other aspects of biological therapy in a real-world clinical settings.
+However, the comparability of the data from different registries is limited due to their heterogeneity. Comprehensive analysis of all available data should be
+performed to assess the safety profile of biologic preparations.
+Key words: psoriasis, psoriatic arthritis, patient registries, biologics, safety, adverse events.
+For citation: Lytkina K.A.1, Zyangirov R.R.2 Safety of biological preparations in psoriasis and psoriatic arthritis: data analysis from patient registries // RMJ.
