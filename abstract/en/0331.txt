@@ -1,9 +1,0 @@
-Psoriasis is a common chronic relapsing inflammatory cutaneous disease; the main role in the inflammation of this conditionis played by lymphocyte Th1,
-Th17 and their cytokines. The activity of these cells is modulated by a particularkind of T cells recently described: the T regulatory cells  (Treg). These are able
-to inhibit the immunological response and to maintain the cutaneous immunological homeostasis, thus preventing autoimmunity against self antigens. Few
-data are available in the literature as to Treg in psoriasis; several studies demonstrate that the function of these cells is impaired in this condition and treat-
-ments for psoriasis may increase the number and activity of Treg. The role of these cells in the pathogenesis of psoriasis is very important to understand how
-they may contribute to the development of this cutaneous disorder. In the near future it would be possible to target therapies at these defects, improving the
-activity of these cells and maintaining cutaneous homeostasis, preventing psoriasis or other inflammatory cutaneous conditions.
-Key words: regulatory T cells, psoriasis, innate immunity.
-For citation: C. Mattozzi, M. Salvi, S. D’Epiro et al. Importance of Regulatory T Cells in the Pathogenesis of Psoriasis: Review of the Literature // RMJ. Der-
